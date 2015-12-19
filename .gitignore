@@ -1,0 +1,10 @@
+/target/
+*.*~
+.classpath
+.project
+/src/test
+.idea
+bank-app.iml
+BDdiagram.png
+EnglishTask.doc
+Script.sql
